@@ -1,2 +1,2 @@
 # SLAM
-CV project to do SLAM - get objects 3D representation and camera movement
+CV project to do SLAM: Given videos of filmed objects, compute objects' 3D location and camera movement.
